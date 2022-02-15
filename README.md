@@ -3,7 +3,7 @@ Comparing and analyzing the behavior of the numerical methods (Bisection, False 
 
 * Specification:
 The program contains the following features:
-● An interactive GUI that enables the user to enter equations containing different functions such as: {poly, exp, cos, sin}. Reading from files must be available as well.
+** An interactive GUI that enables the user to enter equations containing different functions such as: {poly, exp, cos, sin}. Reading from files must be available as well.
 ● Differentiation and Parsing.
 ● A way to choose a method to solve the given equation.
 ● A way to enter the precision and the max number of iterations otherwise default values are used, Default Max Iterations = 50, Default Epsilon = 0.00001;
